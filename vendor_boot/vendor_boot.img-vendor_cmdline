@@ -1,0 +1,1 @@
+video=vfb:640x400,bpp=32,memsize=3072000 log_buf_len=2M msm_rtb.filter=0x237 iptable_raw.raw_before_defrag=1 ip6table_raw.raw_before_defrag=1 printk.devkmsg=on nokaslr mtdoops.fingerprint=spring_global:14/OS2.0.204.0.VOUMIXM:user swinfo.fingerprint=spring_global:14/OS2.0.204.0.VOUMIXM:user bootconfig

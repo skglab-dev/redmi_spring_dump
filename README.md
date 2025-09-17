@@ -1,0 +1,14 @@
+# missi-user 15 AQ3A.250226.002 OS2.0.204.0.VOUMIXM release-keys
+- manufacturer: xiaomi
+- platform: blair
+- codename: spring
+- flavor: missi-user
+- release: 15
+- id: AQ3A.250226.002
+- incremental: OS2.0.204.0.VOUMIXM
+- tags: release-keys
+- fingerprint: Redmi/spring_jp/spring:14/UKQ1.250213.001/OS2.0.204.0.VOUMIXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi-user-15-AQ3A.250226.002-OS2.0.204.0.VOUMIXM-release-keys
+- repo: redmi_spring_dump

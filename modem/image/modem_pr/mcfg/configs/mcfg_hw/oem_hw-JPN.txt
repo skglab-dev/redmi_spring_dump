@@ -1,0 +1,1 @@
+mcfg_hw/generic/common/Strait/LCT/LA/JPN_DSDS/mcfg_hw.mbn
